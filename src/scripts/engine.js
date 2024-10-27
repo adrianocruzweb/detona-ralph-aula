@@ -6,4 +6,14 @@ const state = {
         score: document.querySelector("#score")
     },
     values: {}
+};
+
+function addListenerHitBox() {
+
 }
+
+function initialize() {
+
+}
+
+initialize();
