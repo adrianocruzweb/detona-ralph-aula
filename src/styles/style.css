@@ -49,7 +49,7 @@ body {
 
 .enemy {
     background-color: #ff0000;
-    /* background-image: url('../images/ralph.png'); */
+    background-image: url('../images/ralph.png');
     background-size: cover;
 }
 
@@ -58,6 +58,10 @@ body {
     align-items: center;
 }
 
+img {
+    width: 50px;
+    height: 50px;
+}
 
 /*
 GET 31% OFF on the Wheeler F.A.T Wrench using this link! -
